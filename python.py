@@ -6,7 +6,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import r2_score
-from sklearn
 
 dataset = pd.read_csv("breast_cancer.csv")
 dataset.columns = dataset.columns.str.lower()
