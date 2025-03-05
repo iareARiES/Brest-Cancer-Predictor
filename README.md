@@ -1,7 +1,7 @@
 # 🎗️ Breast Cancer Prediction Using Machine Learning 🔬
 
 ## 📖 Important Note
-📌 I will upload the colab file and step by step execution with details soon.
+**📌 I will upload the colab file and step by step execution with details soon.**
 
 This repository contains a **machine learning model** that predicts breast cancer based on various cell characteristics. The model is built using **Logistic Regression** and utilizes **Standard Scaling** for better performance. 🏥💡
 
