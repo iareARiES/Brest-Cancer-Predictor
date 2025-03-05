@@ -1,7 +1,7 @@
 # 🎗️ Breast Cancer Prediction Using Machine Learning 🔬
 
 ## 📖 Important Note
-** I will upload the colab file and step by step execution with details soon.**
+I will upload the colab file and step by step execution with details soon.**
 
 # 📌Overview
 
